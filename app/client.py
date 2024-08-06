@@ -2,12 +2,10 @@ import asyncio
 import logging
 import sys
 
-from os import getenv
-
 from aiogram import Bot, Dispatcher, Router, types
 from aiogram.enums import ParseMode
 
-from config import TOKEN
+from config import TG_BOT_TOKEN
 from src.handlers import router
 
 dp = Dispatcher()
@@ -19,7 +17,7 @@ async def main() -> None:
     Затем она начинает прослушивание бота в режиме polling.
     """
     dp.include_router(router)
-    bot = Bot(TOKEN, parse_mode=ParseMode.HTML)
+    bot = Bot(TG_BOT_TOKEN, parse_mode=ParseMode.HTML)
     await dp.start_polling(bot)
 
 
