@@ -24,6 +24,7 @@ async def main() -> None:
 if __name__ == "__main__":
     try:
         logging.basicConfig(level=logging.INFO, stream=sys.stdout)
+        print('start')
         asyncio.run(main())
     except KeyboardInterrupt:
         print('exit')
