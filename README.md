@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/photo/notepad_icon.jpg" alt="Logo" width="80" height="80">
+    <img src="assets/photo/tg_shop_icon.png.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">tg bot onix shop</h3>
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![![Product Name Screen Shot][product-screenshot]](https://github.com/oonixxxxx/notepad/blob/main/assets/photo/notepad_name_logo.png)
+![![Product Name Screen Shot][product-screenshot]](https://github.com/oonixxxxx/notepad/blob/main/assets/photo/tg_shop_banner.png)
 
 A functional bot in telegram that helps automate the sale of something in a store, having many functions
 such as:
