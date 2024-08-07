@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/oonixxxxx/ONIX.SHOP/blob/main/assets/photo/tg_shop_icon.png">
-    <img src="assets/photo/tg_shop_icon.png.png" alt="Logo" width="80" height="80">
+    <img src="assets/photo/tg_shop_icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">tg bot onix shop</h3>
